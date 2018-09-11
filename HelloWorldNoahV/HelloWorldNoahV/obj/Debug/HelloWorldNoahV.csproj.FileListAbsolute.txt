@@ -1,0 +1,9 @@
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldNoahV\HelloWorldNoahV\bin\Debug\HelloWorldNoahV.exe.config
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldNoahV\HelloWorldNoahV\bin\Debug\HelloWorldNoahV.exe
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldNoahV\HelloWorldNoahV\bin\Debug\HelloWorldNoahV.pdb
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.csprojResolveAssemblyReference.cache
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.Properties.Resources.resources
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.csproj.GenerateResource.Cache
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.exe
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.pdb
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.frmHelloWorldForm.resources

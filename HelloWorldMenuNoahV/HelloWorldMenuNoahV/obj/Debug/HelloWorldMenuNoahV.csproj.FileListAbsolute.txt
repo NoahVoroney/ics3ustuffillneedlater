@@ -1,0 +1,9 @@
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldMenuNoahV\HelloWorldMenuNoahV\bin\Debug\HelloWorldMenuNoahV.exe.config
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldMenuNoahV\HelloWorldMenuNoahV\bin\Debug\HelloWorldMenuNoahV.exe
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldMenuNoahV\HelloWorldMenuNoahV\bin\Debug\HelloWorldMenuNoahV.pdb
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldMenuNoahV\HelloWorldMenuNoahV\obj\Debug\HelloWorldMenuNoahV.csprojResolveAssemblyReference.cache
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldMenuNoahV\HelloWorldMenuNoahV\obj\Debug\HelloWorldMenuNoahV.frmHelloWorldMenu.resources
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldMenuNoahV\HelloWorldMenuNoahV\obj\Debug\HelloWorldMenuNoahV.Properties.Resources.resources
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldMenuNoahV\HelloWorldMenuNoahV\obj\Debug\HelloWorldMenuNoahV.csproj.GenerateResource.Cache
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldMenuNoahV\HelloWorldMenuNoahV\obj\Debug\HelloWorldMenuNoahV.exe
+C:\Users\s251806\Documents\ICS3U (Noah Voroney)\Introduction\HelloWorldMenuNoahV\HelloWorldMenuNoahV\obj\Debug\HelloWorldMenuNoahV.pdb
